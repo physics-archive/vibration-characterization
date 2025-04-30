@@ -1,0 +1,3 @@
+[submodule "Vibration-Calculation-Sample-Code"]
+	path = Vibration-Calculation-Sample-Code
+	url = git@github.com:JSwooty/Vibration-Calculation-Sample-Code.git
